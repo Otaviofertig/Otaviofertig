@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Otavio Fertig
 
-<!--
-**Otaviofertig/Otaviofertig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor com formação em andamento com um objetivo geral de fullsatck e integração com banco de dados.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Java
+- Git e GitHub
+
+## 📚 Atualmente estudando
+
+- Java
+- Desenvolvimento Web Completo
+- Integração Front-end + Back-end
+
+## 📫 Contato
+
+- LinkedIn:(https://www.linkedin.com/in/ot%C3%A1vio-fertig-677b25331/)
+- Email: otavio.lesss@gmail.com
