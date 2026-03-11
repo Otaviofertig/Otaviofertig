@@ -19,5 +19,5 @@
 
 ## 📫 Contato
 
-- LinkedIn:(https://www.linkedin.com/in/ot%C3%A1vio-fertig-677b25331/)
+- LinkedIn:(www.linkedin.com/in/otávio-fertig)
 - Email: otavio.lesss@gmail.com
