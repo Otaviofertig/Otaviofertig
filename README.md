@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - JavaScript
+- PHP
 - MySQL
 - Java
 - Git e GitHub
