@@ -11,6 +11,8 @@
 - MySQL
 - Java
 - Git e GitHub
+- TypeScript
+- Node.js
 
 ## 📚 Atualmente estudando
 
