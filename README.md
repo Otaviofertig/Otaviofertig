@@ -1,106 +1,129 @@
-<h1 align="center">Otávio Fertig</h1>
+<div align="center">
 
-<p align="center">
-  <em>Formação em andamento, mirando full stack.<br>
-  Considero um projeto pronto quando o README já conta onde ele quebra.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,45:6E56CF,100:0d1117&text=OT%C3%81VIO%20FERTIG&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=dev%20em%20forma%C3%A7%C3%A3o%20%E2%80%94%20flutter%20%C2%B7%20java%20%C2%B7%20c&descSize=15&descAlignY=54&animation=twinkling" alt="Otávio Fertig" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-fertig">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:otavio.lesss@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <img src="https://img.shields.io/badge/Programando%20em%20p%C3%BAblico%20desde-mar%C3%A7o%20de%202025-6E56CF?style=flat-square" alt="Desde março de 2025">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=760&height=55&lines=INSERT+COIN;UM+JOGO+INTEIRO+EM+1+ARQUIVO+HTML;CLEAN+ARCHITECTURE+EM+FLUTTER;README+BOM+CONTA+ONDE+QUEBRA" alt="typing" />
 
----
+<br>
 
-## Projetos
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-fertig"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=6E56CF&labelColor=0d1117" alt="LinkedIn"></a>
+<a href="mailto:otavio.lesss@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=6E56CF&labelColor=0d1117" alt="E-mail"></a>
+<img src="https://komarev.com/ghpvc/?username=Otaviofertig&style=for-the-badge&color=6E56CF&label=PLAYS" alt="visitas">
 
-### [Libria](https://github.com/Otaviofertig/api-flutter) · Dart · Flutter · Firebase
+</div>
 
-App Flutter sobre a API pública da Open Library: busca de livros, ficha completa da obra
-e estante pessoal — com a estante **isolada por conta**, para que um aparelho compartilhado
-não deixe os favoritos de quem saiu visíveis para quem entra.
+<br>
 
-Clean Architecture + MVC, `Result<T>` em vez de exceção atravessando camada, `UiState`
-selado para o compilador cobrar todo estado de tela, e 31 testes nos pontos onde o erro
-dói. Roda em web, Android, iOS e Windows.
+```
+┌─ PLAYER 1 ──────────────────────────────────────────────────────────┐
+│                                                                     │
+│   Estudante de desenvolvimento de software, indo pra full stack.    │
+│   Gosto de projeto que se explica sozinho: arquitetura com          │
+│   motivo, teste onde o erro dói e README que assume as falhas.      │
+│                                                                     │
+│   ONLINE DESDE ... março de 2025          REPOS ... 27              │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-### [Chaos Geometry](https://github.com/Otaviofertig/chaos-geometry) · HTML · Web Audio API
+<br>
 
-Bullet-hell rítmico de boss fights em **um único arquivo HTML** — sem build, sem dependência,
-sem `npm install`. A trilha orquestral é gerada em tempo real e cada batida dispara um ataque
-do boss: a música *é* o jogo. Abre com dois cliques.
+## `▚` STAGE SELECT
 
-### [Gerenciador de Tarefas](https://github.com/Otaviofertig/dsw-gerenciador-tarefas) · SQLite · Tailwind
+| `STAGE 01` | `STAGE 02` |
+| :--- | :--- |
+| **[◈ LIBRIA](https://github.com/Otaviofertig/api-flutter)**<br><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"><br><br>App sobre a API da Open Library: busca, ficha da obra e estante pessoal — **isolada por conta**, pra aparelho compartilhado não vazar os favoritos de quem saiu.<br><br>Clean Architecture + MVC, `Result<T>` no lugar de exceção atravessando camada, `UiState` selado pro compilador cobrar todo estado de tela. **31 testes.** Web, Android, iOS e Windows. | **[◈ CHAOS GEOMETRY](https://github.com/Otaviofertig/chaos-geometry)**<br><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Web%20Audio%20API-6E56CF?style=flat-square&logo=javascript&logoColor=white"><br><br>Bullet-hell rítmico de boss fights em **um único arquivo HTML**. Sem build, sem dependência, sem `npm install`.<br><br>A trilha orquestral é gerada em tempo real e **cada batida dispara um ataque do boss** — a música *é* o jogo. Três chefes, dois cliques pra jogar. |
+| `STAGE 03` | `STAGE 04` |
+| **[◈ ATENDIMENTO INTELIGENTE](https://github.com/Otaviofertig/AVP1-Sistema-de-atendimento-Inteligente)**<br><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"><br><br>Filas de atendimento em C puro, pra avaliação de Estruturas de Dados.<br><br>Ponteiro na mão, `malloc` contado no dedo e nenhum coletor de lixo pra salvar a pele. | **[◈ SMARTHUB](https://github.com/Otaviofertig/SmartHub-Backend)**<br><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br><br>Backend em Java com o [front em repo separado](https://github.com/Otaviofertig/SmartHub-frontend).<br><br>O exercício de fazer as duas pontas conversarem de verdade — contrato, CORS e todo o resto que só aparece quando você separa. |
+| `BONUS` | `BONUS` |
+| **[◈ GERENCIADOR DE TAREFAS](https://github.com/Otaviofertig/dsw-gerenciador-tarefas)**<br><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"><br><br>Multiusuário com os dados persistidos em SQLite e layout montado em Tailwind. | **[◈ PORTFÓLIO](https://github.com/Otaviofertig/Site-portif-lio)**<br><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><br><br>Landing de apresentação, responsiva, feita na raça — sem framework nenhum segurando a barra. |
 
-Gerenciador multiusuário com os dados persistidos em SQLite e o layout montado em Tailwind.
+<br>
 
-### [Sistema de Atendimento Inteligente](https://github.com/Otaviofertig/AVP1-Sistema-de-atendimento-Inteligente) · C
+## `▚` LOADOUT
 
-Filas de atendimento em C puro, para a avaliação de Estruturas de Dados. Ponteiro na mão,
-sem coletor de lixo para salvar.
+<div align="center">
 
-### [SmartHub](https://github.com/Otaviofertig/SmartHub-Backend) · Java
+**ARMA PRIMÁRIA**
 
-Backend em Java, com o [front em repositório separado](https://github.com/Otaviofertig/SmartHub-frontend)
-— o exercício de fazer as duas pontas conversarem de verdade.
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 
----
+**ARMA SECUNDÁRIA**
 
-## Stack
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-**No teclado hoje**
+**ITENS**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-**Nas bordas**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```
+TREINANDO AGORA  ▸▸▸  java a fundo · arquitetura de aplicação · front + back conversando
+```
 
-**Estudando agora** — Java a fundo, arquitetura de aplicação e a integração honesta entre front e back.
+<br>
 
----
+## `▚` HIGH SCORES
 
-## Números
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight&icon_color=6E56CF">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&icon_color=6E56CF" alt="Estatísticas do GitHub de Otávio Fertig">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9&ring_color=6E56CF">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&title_color=6E56CF&icon_color=6E56CF&ring_color=6E56CF" alt="Estatísticas">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=6E56CF&text_color=c9d1d9">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&title_color=6E56CF" alt="Linguagens">
+</picture>
 
-> Sim, HTML lidera o gráfico com folga. Não é apreço por `<div>` — é que um jogo inteiro,
-> com trilha sonora e três bosses, coube em um arquivo só.
+<br><br>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Otaviofertig&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus">
 
-## Contato
+</div>
 
-| Onde | Link |
-| --- | --- |
-| LinkedIn | [otávio-fertig](https://www.linkedin.com/in/ot%C3%A1vio-fertig) |
-| E-mail | [otavio.lesss@gmail.com](mailto:otavio.lesss@gmail.com) |
+> **`!`** HTML lidera o gráfico com folga. Não é apreço por `<div>` — é que um jogo inteiro,
+> com trilha sonora e três bosses, coube num arquivo só.
 
-<p align="center"><sub>Toda issue aberta aqui é lida. Toda PR também.</sub></p>
+<br>
+
+## `▚` REPLAY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otaviofertig/Otaviofertig/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Otaviofertig/Otaviofertig/output/github-snake.svg" alt="Cobrinha comendo as contribuições">
+</picture>
+
+</div>
+
+<br>
+
+## `▚` CONTINUE?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-fertig"><img src="https://img.shields.io/badge/CHAMAR%20NO%20LINKEDIN-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:otavio.lesss@gmail.com"><img src="https://img.shields.io/badge/MANDAR%20UM%20E--MAIL-6E56CF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br><br>
+
+<sub><code>10 · 9 · 8 ...</code> toda issue aberta aqui é lida. toda PR também.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117,45:6E56CF,100:0d1117" alt="" />
+
+</div>
