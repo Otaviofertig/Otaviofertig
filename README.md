@@ -78,24 +78,49 @@ TREINANDO AGORA  ▸▸▸  java a fundo · arquitetura de aplicação · front 
 
 ## `▚` HIGH SCORES
 
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  REPOSITÓRIOS PÚBLICOS ....................................... 27  ║
+║  LINGUAGENS COM CÓDIGO NO AR ................................. 12  ║
+║  ONLINE DESDE .......................................... MAR/2025  ║
+╟────────────────────────────────────────────────────────────────────╢
+║  MAIOR RUN ................ libria · 64 arquivos dart · 31 testes  ║
+║  RECORDE ESQUISITO ........... 1 jogo · 3 bosses · 1 arquivo html  ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9&ring_color=6E56CF">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Otaviofertig&show_icons=true&hide_border=true&locale=pt-br&title_color=6E56CF&icon_color=6E56CF&ring_color=6E56CF" alt="Estatísticas">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Otaviofertig&locale=pt_BR&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&stroke=30363d">
+  <img height="180" src="https://streak-stats.demolab.com?user=Otaviofertig&locale=pt_BR&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" alt="Sequência de commits">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=6E56CF&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviofertig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&title_color=6E56CF" alt="Linguagens">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otaviofertig&theme=github_dark">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otaviofertig&theme=github" alt="Resumo do perfil">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otaviofertig&theme=github_dark">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otaviofertig&theme=github" alt="Linguagens mais commitadas">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otaviofertig&theme=github_dark">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otaviofertig&theme=github" alt="Repositórios por linguagem">
 </picture>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Otaviofertig&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Otaviofertig&bg_color=0d1117&color=c9d1d9&line=6E56CF&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otaviofertig&bg_color=ffffff&color=24292f&line=6E56CF&point=6E56CF&area=true&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade">
+</picture>
 
 </div>
 
-> **`!`** HTML lidera o gráfico com folga. Não é apreço por `<div>` — é que um jogo inteiro,
+> **`!`** HTML lidera o gráfico por volume. Não é apreço por `<div>` — é que um jogo inteiro,
 > com trilha sonora e três bosses, coube num arquivo só.
 
 <br>
