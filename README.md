@@ -16,7 +16,7 @@
 
 ## 📚 Atualmente estudando
 
-- Java
+- Node.js
 - Desenvolvimento Web Completo
 - Integração Front-end + Back-end
 
