@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="30" viewBox="0 0 82 30" role="img" aria-label="CSS3">
+<defs>
+  <linearGradient id="fe89535" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#112451"/><stop offset="1" stop-color="#0d1730"/></linearGradient>
+  <linearGradient id="be89535" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="ce89535"><rect x="0.65" y="0.65" width="80.7" height="28.7" rx="8"/></clipPath>
+</defs>
+<rect x="0.65" y="0.65" width="80.7" height="28.7" rx="8" fill="url(#fe89535)" stroke="#6692f1" stroke-opacity="0.85" stroke-width="1.3"/>
+<g clip-path="url(#ce89535)"><rect x="-60" y="0" width="50" height="30" fill="url(#be89535)" transform="skewX(-20)"><animate attributeName="x" values="-60;122;122" keyTimes="0;0.3;1" dur="6s" begin="0s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(12 8.0) scale(0.5833333333333334)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z" fill="#6692f1"/></g>
+<text x="33.0" y="19.1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3" fill="#ffffff">CSS3</text>
+</svg>
