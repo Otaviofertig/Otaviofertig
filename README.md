@@ -24,15 +24,9 @@ Desenvolvedor fullstack, com foco em integração entre aplicações e banco de 
 
 ## Atualmente estudando
 
-- Node.js
-- Desenvolvimento Web Completo
-- Integração Front-end + Back-end
-
-## Projeto em destaque
-
-**[Gerenciador de Tarefas](https://github.com/Otaviofertig/dsw-gerenciador-tarefas)**: sistema multiusuário com login, feito na disciplina de Desenvolvimento de Sistemas Web. Tem API em Node.js + Express + TypeScript, tela em React + Tailwind, banco na nuvem (Turso) e está publicado no Render.
-
-[![Ver o repositório](assets/botoes/ver-o-repositrio-b7b66c.svg)](https://github.com/Otaviofertig/dsw-gerenciador-tarefas) [![Abrir o sistema](assets/botoes/abrir-o-sistema-c9849c.svg)](https://gerenciador-de-tarefas.onrender.com)
+- Desenvolvimento com IA
+- Arquitetura e estrutura de sistemas
+- Integração de sistemas distribuidos
 
 ## Contato
 
